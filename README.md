@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0d1117&height=250&section=header&text=Abdulaziz%20Aloyibi&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20AI%20Integrator&descAlignY=55&descSize=20&descColor=8b949e&animation=fadeIn" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0d1117&height=250&section=header&text=AZIZ%20ALOTAIBI&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20AI%20Integrator&descAlignY=55&descSize=20&descColor=8b949e&animation=fadeIn" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Architecting+Scalable+Distributed+Systems;Engineering+Complex+AI%2FML+Pipelines;Developing+the+Ultimate+Quantum+SuperSystem+v3.0;Building+High-Performance+Cloud-Native+Applications)](https://git.io/typing-svg)
 
