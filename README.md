@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0d1117&height=250&section=header&text=AZIZ%20ALOTAIBI&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20AI%20Integrator&descAlignY=55&descSize=20&descColor=8b949e&animation=fadeIn" alt="Header" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Architecting+Scalable+Distributed+Systems;Engineering+Complex+AI%2FML+Pipelines;Developing+the+Ultimate+Quantum+SuperSystem+v3.0;Building+High-Performance+Cloud-Native+Applications)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Architecting+Scalable+Distributed+Systems+%F0%9F%8F%97%EF%B8%8F;Engineering+Complex+AI%2FML+Pipelines+%F0%9F%A4%96;Developing+the+Ultimate+Quantum+SuperSystem+v3.0+%E2%9A%9B%EF%B8%8F;Building+High-Performance+Cloud-Native+Applications+%E2%98%81%EF%B8%8F)](https://git.io/typing-svg)
 
 <br>
 
@@ -88,29 +88,44 @@ Senior Full-Stack Engineer and Systems Architect specializing in designing scala
 
 ## 🚀 Featured Engineering Initiatives
 
-<details open>
-<summary><b>1. The Ultimate Quantum SuperSystem v3.0 | <i>System Architecture & Framework Development</i></b></summary>
-<br>
-Architecting a comprehensive, multi-layered technological framework designed for maximum computational efficiency and modular scalability. This involves mapping complex data flows, designing fault-tolerant system logic, and creating a unified theoretical and practical architecture for high-level data processing and API orchestration.
-</details>
-
-<details open>
-<summary><b>2. Enterprise Digital Infrastructure: Cars Square | <i>Full-Stack & Cloud Engineering</i></b></summary>
-<br>
-Developing tailored, high-performance web infrastructure and backend deployment portals for an enterprise automotive maintenance platform. The project involves full-stack execution, from designing a normalized database schema for operational management to establishing a highly responsive, API-driven frontend architecture.
-</details>
-
-<details open>
-<summary><b>3. AI Workflows & LLM Orchestration | <i>AI Pipeline Integration</i></b></summary>
-<br>
-Pioneering programmatic approaches to generative AI. Engineered automated Python-based pipelines integrating advanced LLMs for dynamic scripting, autonomous agent orchestration, and complex prompt-engineering workflows to optimize data generation and algorithmic processing.
-</details>
-
-<details open>
-<summary><b>4. Advanced NLP & Pattern Recognition | <i>Data Engineering</i></b></summary>
-<br>
-Developed systematic workflows leveraging Large Language Models to parse, analyze, and iteratively evaluate complex linguistic structures and non-standard text data. Implemented programmatic tokenization, semantic depth evaluation, and algorithmic pattern matching to bridge raw text with structured, machine-readable formats.
-</details>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>⚛️ The Ultimate Quantum SuperSystem v3.0</h3>
+      <p><b>System Architecture & Framework Development</b></p>
+      <p>Architecting a comprehensive, multi-layered technological framework designed for maximum computational efficiency and modular scalability. This involves mapping complex data flows, designing fault-tolerant system logic, and creating a unified theoretical and practical architecture for high-level data processing and API orchestration.</p>
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚗 Enterprise Digital Infrastructure: Cars Square</h3>
+      <p><b>Full-Stack & Cloud Engineering</b></p>
+      <p>Developing tailored, high-performance web infrastructure and backend deployment portals for an enterprise automotive maintenance platform. The project involves full-stack execution, from designing a normalized database schema for operational management to establishing a highly responsive, API-driven frontend architecture.</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 AI Workflows & LLM Orchestration</h3>
+      <p><b>AI Pipeline Integration</b></p>
+      <p>Pioneering programmatic approaches to generative AI. Engineered automated Python-based pipelines integrating advanced LLMs for dynamic scripting, autonomous agent orchestration, and complex prompt-engineering workflows to optimize data generation and algorithmic processing.</p>
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h3>📝 Advanced NLP & Pattern Recognition</h3>
+      <p><b>Data Engineering</b></p>
+      <p>Developed systematic workflows leveraging Large Language Models to parse, analyze, and iteratively evaluate complex linguistic structures and non-standard text data. Implemented programmatic tokenization, semantic depth evaluation, and algorithmic pattern matching to bridge raw text with structured, machine-readable formats.</p>
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=000" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -134,6 +149,12 @@ Developed systematic workflows leveraging Large Language Models to parse, analyz
 <br>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIIZALOYIBI&theme=react-dark&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=16213e" alt="Activity Graph" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AZIIZALOYIBI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
@@ -142,8 +163,15 @@ Developed systematic workflows leveraging Large Language Models to parse, analyz
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AZIIZALOYIBI&color=58a6ff&style=flat-square&label=SYSTEM+REQUESTS)
-<br><br>
+
+<br>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+
+<br>
+
 <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+
 <br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0d1117,100:0d1117&height=100&section=footer" alt="Footer" />
