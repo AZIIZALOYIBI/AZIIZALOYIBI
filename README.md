@@ -1,133 +1,151 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=AZIIZ%20ALOYIBI&fontSize=55&fontColor=58a6ff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&descColor=8b949e&animation=twinkling" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16213e,100:0d1117&height=250&section=header&text=Abdulaziz%20Aloyibi&fontSize=55&fontColor=58a6ff&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20Systems%20Architect%20%7C%20AI%20Integrator&descAlignY=55&descSize=20&descColor=8b949e&animation=fadeIn" alt="Header" />
 
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=800&lines=Architecting+Scalable+Distributed+Systems;Engineering+Complex+AI%2FML+Pipelines;Developing+the+Ultimate+Quantum+SuperSystem+v3.0;Building+High-Performance+Cloud-Native+Applications)](https://git.io/typing-svg)
 
-<div align="center">
+<br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%8C%9F;Always+learning%2C+always+growing+%F0%9F%93%9A)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-```yaml
-name: Aziiz Aloyibi
-location: 🌍 Earth
-role: Full-Stack Developer
-focus:
-  - Building scalable web applications
-  - Contributing to open-source projects
-  - Learning new technologies daily
-passions:
-  - Clean Code & Best Practices
-  - Problem Solving
-  - Community & Collaboration
-currently_learning: ["Cloud Architecture", "DevOps", "AI/ML"]
-open_to: ["Collaborations", "Freelance", "Open Source"]
-```
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### 🎨 Frontend
-<div>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-</div>
-
-### ⚙️ Backend
-<div>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-</div>
-
-### 🗄️ Databases
-<div>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-### 🔧 DevOps & Tools
-<div>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AZIIZALOYIBI&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZIIZALOYIBI&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZIIZALOYIBI&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AZIIZALOYIBI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AZIIZALOYIBI&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-AZIIZALOYIBI-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AZIIZALOYIBI)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
-[![X (Twitter)](https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
-[![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziizaloyibi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/)
+[![Location](https://img.shields.io/badge/Base_of_Operations-Riyadh,_KSA-238636?style=for-the-badge&logo=google-maps&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aziizaloyibi@gmail.com)
 
 </div>
 
 ---
 
-## 💡 Random Dev Quote
+## 👨‍💻 Executive Summary
+
+Senior Full-Stack Engineer and Systems Architect specializing in designing scalable, distributed architectures and integrating advanced AI/ML pipelines. My focus lies in engineering high-performance ecosystems that bridge complex backend logic with dynamic, optimized client-side interfaces, deploying cloud-native solutions that drive measurable operational efficiency and robust data processing.
+
+* **Systems Architecture & Infrastructure:** Designing and deploying enterprise-grade platforms and comprehensive frameworks, emphasizing high availability, microservices, secure API integrations, and robust CI/CD infrastructure.
+* **AI & Machine Learning Pipelines:** Architecting complex AI workflows and LLM orchestration. Developing automated programmatic pipelines for autonomous agent scripting, Retrieval-Augmented Generation (RAG) architectures, and algorithmic data synthesis using advanced generative models.
+* **Enterprise Web Development:** Building high-performance, fault-tolerant full-stack solutions tailored for specialized commercial sectors, utilizing modern asynchronous stacks to streamline backend operations and deliver seamless, latency-optimized user experiences.
+* **Computational Linguistics & Data Engineering:** Designing complex data pipelines to parse, vectorize, and semantically analyze unstructured text and non-standard dialects using custom LLM workflows and Natural Language Processing (NLP) techniques.
+
+---
+
+## 🛠️ Technical Arsenal & Ecosystem
+
+<table align="center" style="border: none; background-color: transparent; width: 100%;">
+  <tr>
+    <td align="left" valign="top" width="50%" style="border: none;">
+      <h3>🌐 Frontend Architecture</h3>
+      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/JavaScript_ES6+-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+      <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" />
+    </td>
+    <td align="left" valign="top" width="50%" style="border: none;">
+      <h3>⚙️ Backend & Microservices</h3>
+      <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python_3-14354C?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" />
+      <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
+      <img src="https://img.shields.io/badge/RESTful_APIs-007BFF?style=for-the-badge&logo=json&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="50%" style="border: none;">
+      <h3>🗄️ Database & Message Brokers</h3>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+    </td>
+    <td align="left" valign="top" width="50%" style="border: none;">
+      <h3>☁️ Cloud, CI/CD & DevOps</h3>
+      <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+      <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+      <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+      <img src="https://img.shields.io/badge/Linux_Kernels-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    </td>
+  </tr>
+  <tr>
+    <td align="left" valign="top" width="100%" colspan="2" style="border: none;">
+      <h3>🧠 AI / ML Integration & Generative Modeling</h3>
+      <img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+      <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000" />
+      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Data_Pipelines-58A6FF?style=for-the-badge&logo=google&logoColor=white" />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🚀 Featured Engineering Initiatives
+
+<details open>
+<summary><b>1. The Ultimate Quantum SuperSystem v3.0 | <i>System Architecture & Framework Development</i></b></summary>
+<br>
+Architecting a comprehensive, multi-layered technological framework designed for maximum computational efficiency and modular scalability. This involves mapping complex data flows, designing fault-tolerant system logic, and creating a unified theoretical and practical architecture for high-level data processing and API orchestration.
+</details>
+
+<details open>
+<summary><b>2. Enterprise Digital Infrastructure: Cars Square | <i>Full-Stack & Cloud Engineering</i></b></summary>
+<br>
+Developing tailored, high-performance web infrastructure and backend deployment portals for an enterprise automotive maintenance platform. The project involves full-stack execution, from designing a normalized database schema for operational management to establishing a highly responsive, API-driven frontend architecture.
+</details>
+
+<details open>
+<summary><b>3. AI Workflows & LLM Orchestration | <i>AI Pipeline Integration</i></b></summary>
+<br>
+Pioneering programmatic approaches to generative AI. Engineered automated Python-based pipelines integrating advanced LLMs for dynamic scripting, autonomous agent orchestration, and complex prompt-engineering workflows to optimize data generation and algorithmic processing.
+</details>
+
+<details open>
+<summary><b>4. Advanced NLP & Pattern Recognition | <i>Data Engineering</i></b></summary>
+<br>
+Developed systematic workflows leveraging Large Language Models to parse, analyze, and iteratively evaluate complex linguistic structures and non-standard text data. Implemented programmatic tokenization, semantic depth evaluation, and algorithmic pattern matching to bridge raw text with structured, machine-readable formats.
+</details>
+
+---
+
+## 📊 Telemetry & GitHub Analytics
+
+<table align="center" style="border: none; background-color: transparent; width: 100%;">
+  <tr>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=AZIIZALOYIBI&show_icons=true&theme=transparent&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZIIZALOYIBI&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=00000000" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AZIIZALOYIBI&theme=transparent&hide_border=true&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e" alt="GitHub Streak" />
+</div>
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<br>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AZIIZALOYIBI&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies" />
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=AZIIZALOYIBI&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AZIIZALOYIBI&color=58a6ff&style=flat-square&label=SYSTEM+REQUESTS)
+<br><br>
+<i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
+<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:0d1117,100:0d1117&height=100&section=footer" alt="Footer" />
 
 </div>
