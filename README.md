@@ -1282,7 +1282,7 @@ jobs:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1200&color=4A5568&center=true&vCenter=true&width=1000&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+—+Kent+Beck;%22Simplicity+is+the+ultimate+sophistication.%22+—+Leonardo+da+Vinci;%22The+best+architecture+lets+you+change+your+mind.%22+—+Martin+Fowler;%22Any+fool+can+write+code+a+computer+understands.%22+—+Martin+Fowler;%22You+can't+manage+what+you+can't+measure.%22+—+Peter+Drucker" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=5000&pause=1200&color=5A7FA8&center=true&vCenter=true&width=1000&lines=%22Talk+is+cheap.+Show+me+the+code.%22+—+Linus+Torvalds;%22Make+it+work%2C+make+it+right%2C+make+it+fast.%22+—+Kent+Beck;%22Simplicity+is+the+ultimate+sophistication.%22+—+Leonardo+da+Vinci;%22The+best+architecture+lets+you+change+your+mind.%22+—+Martin+Fowler;%22Any+fool+can+write+code+a+computer+understands.%22+—+Martin+Fowler;%22You+can't+manage+what+you+can't+measure.%22+—+Peter+Drucker" />
 
 <br><br>
 
